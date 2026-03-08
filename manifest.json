@@ -11,16 +11,16 @@
   "dir": "rtl",
   "icons": [
     {
-      "src": "https://via.placeholder.com/192x192/1a6bff/ffffff?text=KB",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "https://via.placeholder.com/512x512/1a6bff/ffffff?text=KB",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
     }
   ]
 }
