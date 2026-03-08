@@ -1,22 +1,26 @@
 {
   "name": "كن أفضل",
   "short_name": "كن أفضل",
-  "description": "تطبيق تتبع العادات اليومية - ابدأ رحلتك نحو النسخة الأفضل منك",
-  "start_url": "/kom-afdal/",
+  "description": "تطبيق تتبع العادات اليومية",
+  "start_url": ".",
+  "scope": ".",
   "display": "standalone",
   "background_color": "#0a0f1e",
   "theme_color": "#1a6bff",
-  "orientation": "portrait",
+  "lang": "ar",
+  "dir": "rtl",
   "icons": [
     {
       "src": "https://via.placeholder.com/192x192/1a6bff/ffffff?text=KB",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     },
     {
       "src": "https://via.placeholder.com/512x512/1a6bff/ffffff?text=KB",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
